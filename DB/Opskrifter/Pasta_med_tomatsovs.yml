@@ -1,0 +1,9 @@
+ingredienser:
+  pasta: 100   # gram pr person
+  tomat: 2     # stk pr person
+  løg: 0.5     # stk pr person
+tid: 20        # minutter
+fremgangsmåde: 
+  1. Kog pastaen
+  2. Steg løg og tomat
+  3. Bland sammen og server
